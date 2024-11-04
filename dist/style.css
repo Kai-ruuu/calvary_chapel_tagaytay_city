@@ -957,6 +957,26 @@ video {
   .md\:justify-between {
     justify-content: space-between;
   }
+
+  .md\:text-\[2\.5rem\] {
+    font-size: 2.5rem;
+  }
+
+  .md\:text-\[\] {
+    color: ;
+  }
+
+  .md\:text-\[2\.\] {
+    color: 2.;
+  }
+
+  .md\:text-\[2\.5\] {
+    color: 2.5;
+  }
+
+  .md\:text-\[2\.5re\] {
+    color: 2.5re;
+  }
 }
 
 @media (min-width: 1024px) {
